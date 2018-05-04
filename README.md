@@ -12,3 +12,5 @@ roslaunch missions_pkg demo_3_robotic_explorer.launch
 The logic of the robot is within
 
 src/robotic_explorer/src/robotic_explorer_node.cpp
+
+What I did was make the robot follow the fursthest point wihtin a limited angle range of laser scans. Although it is very simple it  performed reasonably good. 
