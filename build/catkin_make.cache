@@ -1,0 +1,2 @@
+keyboard_control:missions_pkg:robotic_explorer:stage_ros
+-DCATKIN_DEVEL_PREFIX=/home/jamesconnor/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jamesconnor/catkin_ws/install -G Unix Makefiles

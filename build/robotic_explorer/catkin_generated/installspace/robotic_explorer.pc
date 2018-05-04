@@ -1,0 +1,8 @@
+prefix=/home/jamesconnor/catkin_ws/install
+
+Name: robotic_explorer
+Description: Description of robotic_explorer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jamesconnor/catkin_ws/install/lib 
+Requires: 

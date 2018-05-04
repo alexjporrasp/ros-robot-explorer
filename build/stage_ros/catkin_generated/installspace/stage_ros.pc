@@ -1,0 +1,8 @@
+prefix=/home/jamesconnor/catkin_ws/install
+
+Name: stage_ros
+Description: Description of stage_ros
+Version: 1.7.5
+Cflags: 
+Libs: -L/home/jamesconnor/catkin_ws/install/lib 
+Requires: 

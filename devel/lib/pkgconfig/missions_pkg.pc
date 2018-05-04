@@ -1,0 +1,8 @@
+prefix=/home/jamesconnor/catkin_ws/devel
+
+Name: missions_pkg
+Description: Description of missions_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jamesconnor/catkin_ws/devel/lib 
+Requires: 

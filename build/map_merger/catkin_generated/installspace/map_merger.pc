@@ -1,0 +1,8 @@
+prefix=/home/jamesconnor/catkin_ws/install
+
+Name: map_merger
+Description: Description of map_merger
+Version: 0.1.6
+Cflags: -I/home/jamesconnor/catkin_ws/install/include
+Libs: -L/home/jamesconnor/catkin_ws/install/lib 
+Requires: message_runtime adhoc_communication nav_msgs roscpp
